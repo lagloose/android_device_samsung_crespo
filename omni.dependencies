@@ -1,0 +1,12 @@
+[
+    {
+      "remote": "DerTeufel",
+      "repository": "android_kernel_samsung_crespo",
+      "target_path": "kernel/samsung/crespo",
+      "revision": "cm-10.2"
+    },
+    {
+        "repository": "android_hardware_samsung",
+        "target_path": "hardware/samsung"
+    }
+]
